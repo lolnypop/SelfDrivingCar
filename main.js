@@ -13,7 +13,7 @@ window.addEventListener('resize', () => {
 
 const ctx = canvas.getContext("2d");
 const road = new Road(canvas.width/2, canvas.width*0.9, 5); // pass through middle x axis value, width of the road, lane count
-const car = new Car(road.getLaneCenter(3), 200, 50, 80, "player-car.png");
+const car = new Car(road.getLaneCenter(3), 200, 50, 80, "images/player-car.png");
 
 let lastTime = 0;
 animate();

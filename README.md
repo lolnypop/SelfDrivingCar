@@ -1,4 +1,4 @@
-<img src="banner.jpg">
+<img src="images/banner.jpg">
 
 <br>
 
@@ -14,17 +14,7 @@ The car is learns how to navigate through simulated highway traffic using:
 
 The project has been inspired by **Dr. Radu Mariescu-Istodor's** [ Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning ](https://youtu.be/Rs_rAxEsAvI).
 
-<iframe 
-    width="640" 
-    height="330" 
-    src="https://www.youtube-nocookie.com/embed/Rs_rAxEsAvI?si=Dl6OW81Y6fTO1dY8&amp;controls=0" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; 
-    autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen
->
-</iframe>
+<img src="images/thumbnail.jpg">
 
 <br>
 
@@ -32,13 +22,8 @@ The project has been inspired by **Dr. Radu Mariescu-Istodor's** [ Self-Driving 
 This project is covers the fundementals of **AI/ML** and **Neural Networks**. Alongside, providing hands-on experience in translating real-life solutions into functional JavaScript code.
 
 Most importantly, this is a project for [HackClub.com](https://hackclub.com)
-<div style="width:100%; aspect-ratio:16/9; overflow:hidden;">
-  <iframe
-    src="https://hackclub.com/"
-    style="width:100%; height:100%; border:0;"
-    scrolling="no">
-  </iframe>
-</div>
+
+<img src="images/hackclub.png">
 
 ### 🛠️ Tech Stack & Concepts
 * **Language:** Pure Vanilla JavaScript (ES6+)
