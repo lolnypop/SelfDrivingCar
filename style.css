@@ -1,0 +1,10 @@
+body{
+    margin:0;
+    background:darkslategray;
+    overflow:hidden;
+    text-align:center;
+}
+#mainCanvas{
+    background:darkgray;
+    min-height: 400px;
+}
