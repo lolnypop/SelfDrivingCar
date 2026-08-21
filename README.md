@@ -51,8 +51,8 @@ Since the project uses no external libraries or bundlers, you can run it directl
 * **Fahian Rasheed** - *A Personal Project By* - [@lolnypop](https://github.com/lolnypop)
 * I enjoy making projects and attending hackathons
 
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/fahianrasheed)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fahianrasheed)
 
 
 ## License
